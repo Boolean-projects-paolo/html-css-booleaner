@@ -3,6 +3,8 @@ body{
     width: 1900px;
 }
 
+/* Hearder */
+
 header{
     background-image: url(img-booleaner/pattern.png);
     background-color: cornflowerblue;
@@ -17,6 +19,8 @@ header{
     top: 46%;
     left: 0.8%;
 }
+
+/* Sezione 1 */
 
 #titolo{
     height: 150px;
@@ -45,6 +49,8 @@ header{
     padding: 0px;
 }
 
+/* Sezione 2 */
+
 .immagine{
     width: 910px;
     height: 650px;
@@ -60,4 +66,20 @@ header{
 .intestazione{
     position: relative;
     margin-left: 10px;
+    font-size: 15px;
+}
+
+/* Sezione 3 */
+
+.lorem{
+    position: relative;
+    margin-left: 10px;
+    font-size: 22px;
+}
+
+.lorem2{
+    position: relative;
+    margin-left: -10px;
+    font-size: 22px;
+     
 }

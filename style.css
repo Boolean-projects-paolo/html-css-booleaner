@@ -1,0 +1,44 @@
+body{
+    margin: auto;
+}
+
+header{
+    background-image: url(img-booleaner/pattern.png);
+    background-color: cornflowerblue;
+    height: 180px;
+    width: 2600px;
+}
+
+.head{
+    height: 90px;
+    position: absolute;
+    top: 7%;
+    left: 1%;
+}
+
+#titolo{
+    height: 170px;
+    width: 2200px ;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    font-size: 90px;
+}
+
+#autore{
+    font-size: 30px;
+    color: rgb(126, 125, 125);
+    margin-top: 30px;
+    margin-left: 10px;
+    border:0px;
+    padding: 0px;
+}
+
+#data{
+    font-size: 20px;
+    color: rgb(126, 125, 125);
+    margin-top: 0px;
+    margin-left: 10px;
+    border:0px;
+    padding: 0px;
+}

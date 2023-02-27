@@ -74,12 +74,42 @@ header{
 .lorem{
     position: relative;
     margin-left: 10px;
-    font-size: 22px;
+    font-size: 20px;
+}
+
+mark{
+    background-color: yellow;
 }
 
 .lorem2{
     position: relative;
     margin-left: -10px;
-    font-size: 22px;
-     
+    font-size: 20px; 
+}
+
+/* Sezione 4 */
+
+.titolo{
+    background-color:dodgerblue;
+    width: 630px;
+    color: white;
+    font-size: 20px; 
+}
+
+.cell{
+    background-color:powderblue;
+    width: 630px;
+    font-size: 20px;
+}
+
+.cellcentral{
+    background-color:white;
+    width: 630px;
+    font-size: 20px;
+}
+
+.lorem3{
+    position: relative;
+    margin-left: -10px;
+    font-size: 20px; 
 }

@@ -1,34 +1,36 @@
 body{
-    margin: auto;
+    margin: 0;
+    width: 1900px;
 }
 
 header{
     background-image: url(img-booleaner/pattern.png);
     background-color: cornflowerblue;
     height: 180px;
-    width: 2600px;
+    width: 1902px;
 }
 
 .head{
-    height: 90px;
-    position: absolute;
-    top: 7%;
-    left: 1%;
+    height: 80px;
+    position: static;
+    position: relative;
+    top: 46%;
+    left: 0.8%;
 }
 
 #titolo{
-    height: 170px;
-    width: 2200px ;
+    height: 150px;
+    width: 1800px ;
     margin-top: 25px;
-    margin-bottom: 15px;
+    margin-bottom: 0px;
     margin-left: 10px;
-    font-size: 90px;
+    font-size: 70px;
 }
 
 #autore{
     font-size: 30px;
     color: rgb(126, 125, 125);
-    margin-top: 30px;
+    margin-top: 5px;
     margin-left: 10px;
     border:0px;
     padding: 0px;
@@ -41,4 +43,21 @@ header{
     margin-left: 10px;
     border:0px;
     padding: 0px;
+}
+
+.immagine{
+    width: 910px;
+    height: 650px;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+.immagine2 {
+    width: 910px;
+    height: 650px;
+}
+
+.intestazione{
+    position: relative;
+    margin-left: 10px;
 }

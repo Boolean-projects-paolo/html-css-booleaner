@@ -20,6 +20,7 @@ header{
     left: 0.8%;
 }
 
+/* Main */
 /* Sezione 1 */
 
 #titolo{
@@ -110,6 +111,45 @@ mark{
 
 .lorem3{
     position: relative;
-    margin-left: -10px;
+    margin-left: 10px;
     font-size: 20px; 
+}
+
+/* Footer */
+
+.pie{
+    position: relative;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    font-size: 18px;
+    color: rgb(85, 85, 85);   
+}
+
+h3{
+    position:relative;
+    padding: 8px;
+    color: white;
+    font-weight: 500;
+}
+
+
+#immagine3{
+    background-image: url(img-booleaner/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 218px;
+    width: 250px;
+    margin-left: 10px; 
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+#immagine4{
+    background-image: url(img-booleaner/graph.jpg);
+    background-repeat: no-repeat;
+    height: 218px;
+    width: 250px;
+    margin-left: 10px; 
+    margin-top: 0px; 
+   
 }

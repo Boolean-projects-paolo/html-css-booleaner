@@ -1,0 +1,162 @@
+body{
+    margin: 0;
+    max-width: 1900px;
+}
+
+/* Hearder */
+
+header{
+    background-image: url(img-booleaner-bonus/pattern.png);
+    background-color: cornflowerblue;
+    height: 180px;
+    width: 1902px;
+}
+
+.head{
+    height: 80px;
+    position: static;
+    position: relative;
+    top: 46%;
+    left: 0.8%;
+}
+
+/* Container per margini */
+
+.container{
+    margin: 0;
+    max-width: 1700px;
+    margin-inline: auto;
+}
+
+/* Main */
+/* Sezione 1 */
+
+#titolo{
+    height: 150px;
+    width: 1800px ;
+    margin-top: 25px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    font-size: 70px;
+}
+
+#autore{
+    font-size: 30px;
+    color: rgb(126, 125, 125);
+    margin-top: 5px;
+    margin-left: 10px;
+    border:0px;
+    padding: 0px;
+}
+
+#data{
+    font-size: 20px;
+    color: rgb(126, 125, 125);
+    margin-top: 0px;
+    margin-left: 10px;
+    border:0px;
+    padding: 0px;
+}
+
+/* Sezione 2 */
+
+.immagine{
+    width: 810px;
+    height: 650px;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+.immagine2 {
+    width: 810px;
+    height: 650px;
+}
+
+.intestazione{
+    position: relative;
+    margin-left: 10px;
+    font-size: 15px;
+}
+
+/* Sezione 3 */
+
+.lorem{
+    position: relative;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+mark{
+    background-color: yellow;
+}
+
+.lorem2{
+    position: relative;
+    margin-left: -10px;
+    font-size: 20px; 
+}
+
+/* Sezione 4 */
+
+.titolo{
+    background-color:dodgerblue;
+    width: 630px;
+    color: white;
+    font-size: 20px; 
+}
+
+.cell{
+    background-color:powderblue;
+    width: 630px;
+    font-size: 20px;
+}
+
+.cellcentral{
+    background-color:white;
+    width: 630px;
+    font-size: 20px;
+}
+
+.lorem3{
+    position: relative;
+    margin-left: 10px;
+    font-size: 20px; 
+}
+
+/* Footer */
+
+.pie{
+    position: relative;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    font-size: 18px;
+    color: rgb(85, 85, 85);   
+}
+
+h3{
+    position:relative;
+    padding: 8px;
+    color: white;
+    font-weight: 500;
+}
+
+
+#immagine3{
+    background-image: url(img-booleaner-bonus/monito.jpg);
+    background-repeat: no-repeat;
+    height: 218px;
+    width: 250px;
+    margin-left: 10px; 
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+#immagine4{
+    background-image: url(img-booleaner-bonus/graph.jpg);
+    background-repeat: no-repeat;
+    height: 218px;
+    width: 250px;
+    margin-left: 10px; 
+    margin-top: 0px; 
+}

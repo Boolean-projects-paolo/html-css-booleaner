@@ -49,6 +49,10 @@ header{
     padding: 0px;
 }
 
+span{
+    color: cornflowerblue;
+}
+
 #data{
     font-size: 20px;
     color: rgb(126, 125, 125);
